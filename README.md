@@ -24,3 +24,4 @@ Tableau workbook/dashboard (.twbx) showcasing all insights
 
 Outcome:  
 The final dashboard offers an executive view of vendor performance, consumer behavior, and sales optimization opportunities
+https://public.tableau.com/app/profile/parineeta.ekhande/viz/FarmerMarketSales/Dashboard1
