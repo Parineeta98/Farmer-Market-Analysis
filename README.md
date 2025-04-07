@@ -1,7 +1,6 @@
 Farmer’s Market Sales Analytics — SQL + Tableau
 
 This project explores sales data from a mock farmer’s market to derive actionable business insights using advanced SQL and Tableau visualizations.
-The goal was to demonstrate SQL proficiency through real-world analytics, and build an interactive Tableau dashboard for business storytelling.
 
 Tech Stack:  
 SQL Server Management Studio (SSMS)  
@@ -20,7 +19,6 @@ New vs returning vendor revenue comparison
 Files Included:  
 Cleaned and transformed .csv files for each analysis
 SQL scripts (.sql) for all queries
-Tableau workbook/dashboard (.twbx) showcasing all insights
 
 Outcome:  
 The final dashboard offers an executive view of vendor performance, consumer behavior, and sales optimization opportunities
